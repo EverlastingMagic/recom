@@ -37,5 +37,8 @@
         "python.defaultInterpreterPath": "/usr/local/bin/python"
       }
     }
+  },
+  "hostRequirements":{
+    "memory":"8GB"
   }
 }
